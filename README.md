@@ -7,4 +7,5 @@
 We also show you the result table of accuracy
 
 | Model | Split attribute | Train accuracy (%) | Test accuracy (%) |
-| Decision stump | 0 | 70% | 65.8%  |
+
+| Decision stump | 0      | 70%             | 65.8%  |
